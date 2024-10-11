@@ -1,0 +1,4 @@
+Id-Name-Phone-Password-Balance-Email-Status-AccountNumber-Role
+1,Dareen,0562111476,#dar123,1000,d@gmail.com,Active,123876,Admin
+2,Adam,0562111476,#dar1234,1000,d123@gmail.com,Active,123875,User
+

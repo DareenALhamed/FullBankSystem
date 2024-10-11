@@ -1,0 +1,14 @@
+C:\Users\alham\Desktop\BackEnd\c#\1\FinalOne\obj\Debug\net8.0\FinalOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alham\Desktop\BackEnd\c#\1\FinalOne\obj\Debug\net8.0\FinalOne.AssemblyInfoInputs.cache
+C:\Users\alham\Desktop\BackEnd\c#\1\FinalOne\obj\Debug\net8.0\FinalOne.AssemblyInfo.cs
+C:\Users\alham\Desktop\BackEnd\c#\1\FinalOne\obj\Debug\net8.0\FinalOne.csproj.CoreCompileInputs.cache
+C:\Users\alham\Desktop\BackEnd\c#\1\FinalOne\bin\Debug\net8.0\FinalOne.exe
+C:\Users\alham\Desktop\BackEnd\c#\1\FinalOne\bin\Debug\net8.0\FinalOne.deps.json
+C:\Users\alham\Desktop\BackEnd\c#\1\FinalOne\bin\Debug\net8.0\FinalOne.runtimeconfig.json
+C:\Users\alham\Desktop\BackEnd\c#\1\FinalOne\bin\Debug\net8.0\FinalOne.dll
+C:\Users\alham\Desktop\BackEnd\c#\1\FinalOne\bin\Debug\net8.0\FinalOne.pdb
+C:\Users\alham\Desktop\BackEnd\c#\1\FinalOne\obj\Debug\net8.0\FinalOne.dll
+C:\Users\alham\Desktop\BackEnd\c#\1\FinalOne\obj\Debug\net8.0\refint\FinalOne.dll
+C:\Users\alham\Desktop\BackEnd\c#\1\FinalOne\obj\Debug\net8.0\FinalOne.pdb
+C:\Users\alham\Desktop\BackEnd\c#\1\FinalOne\obj\Debug\net8.0\FinalOne.genruntimeconfig.cache
+C:\Users\alham\Desktop\BackEnd\c#\1\FinalOne\obj\Debug\net8.0\ref\FinalOne.dll
