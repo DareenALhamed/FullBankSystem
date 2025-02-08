@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\finalone\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\finalone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\finalone\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|solutionrelative:operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\finalone\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|solutionrelative:audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\finalone\\accountoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|solutionrelative:accountoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\finalone\\accounts.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|solutionrelative:accounts.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\finalone\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|solutionrelative:operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\finalone\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\finalone\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\finalone\\migrations\\20250208172044_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|solutionrelative:migrations\\20250208172044_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\finalone\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|solutionrelative:audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A337FDC-017B-4821-946C-13D4DD81E86F}|FinalOne.csproj|c:\\users\\alham\\desktop\\backend\\c#\\1\\finalone\\finalone.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -34,84 +46,118 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-08T17:21:32.582Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Operation.cs",
+              "RelativeDocumentMoniker": "Operation.cs",
+              "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Operation.cs",
+              "RelativeToolTip": "Operation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T10:39:23.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:40:36.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:01:47.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AccountOperation.cs",
               "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\AccountOperation.cs",
               "RelativeDocumentMoniker": "AccountOperation.cs",
               "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\AccountOperation.cs",
               "RelativeToolTip": "AccountOperation.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAAAEgAAAAVAAAA",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAvwBQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T16:49:40.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T16:49:40.093Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:42:00.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250208172044_initial.cs",
+              "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Migrations\\20250208172044_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250208172044_initial.cs",
+              "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Migrations\\20250208172044_initial.cs",
+              "RelativeToolTip": "Migrations\\20250208172044_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:20:45.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "FinalOne",
               "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\FinalOne.csproj",
               "RelativeDocumentMoniker": "FinalOne.csproj",
               "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\FinalOne.csproj",
               "RelativeToolTip": "FinalOne.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-11T13:01:51.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T13:01:51.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Operation.cs",
-              "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Operation.cs",
-              "RelativeDocumentMoniker": "Operation.cs",
-              "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Operation.cs",
-              "RelativeToolTip": "Operation.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAYwDAAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:17:07.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Accounts.txt",
-              "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Accounts.txt",
-              "RelativeDocumentMoniker": "Accounts.txt",
-              "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Accounts.txt",
-              "RelativeToolTip": "Accounts.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-11T10:04:19.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Audit.cs",
               "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Audit.cs",
               "RelativeDocumentMoniker": "Audit.cs",
               "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Audit.cs",
               "RelativeToolTip": "Audit.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAIwGAAAAAAAAAA",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:03:18.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\alham\\Desktop\\BackEnd\\c#\\1\\FinalOne\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:02:53.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T10:03:18.951Z"
             }
           ]
         }
